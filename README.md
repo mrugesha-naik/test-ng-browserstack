@@ -1,11 +1,11 @@
 # testng-browserstack
-![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
+
+![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 [TestNG](http://testng.org) Integration with BrowserStack.
 
 
-
-## Using Maven
+## Using Maven build
 
 ### Run sample build
 
